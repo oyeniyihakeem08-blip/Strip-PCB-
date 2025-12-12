@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "EDGE CONNECTORS Library")(type "KiCad")(uri "${KIPRJMOD}/EDGE CONNECTORS Library.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/STRIP PCB/Library.pretty")(options "")(descr ""))
+  (lib (name "Non plated edge")(type "KiCad")(uri "${KIPRJMOD}/STRIP PCB/Non plated edge.pretty")(options "")(descr ""))
+)

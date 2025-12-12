@@ -1,0 +1,5 @@
+(version 1)
+(rule "tighter_resistor_clearance"
+    (condition "A.pad && A.reference =~ 'R.*'")
+    (constraint clearance (min 0.1mm))
+)
